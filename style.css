@@ -1,0 +1,52 @@
+*{
+    text-align: center;
+
+}
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: c;
+}
+
+input{
+    height: 30px; 
+    padding: 0px;
+}
+.toCopy{
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 370px ;
+    height: 20px;
+    background-color: rgba(144, 151, 194, 0.3);
+}
+.btnCopy{
+    border: none;
+     border-radius: 5px;
+    width: 50px;
+    height: 30px;
+    margin-top: 30px;
+    color: white;
+    background-color: rgb(65, 65, 65);
+}
+.btnCopy:hover{
+    background-color: white;
+    color: black;
+    transition: 0.2s;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
